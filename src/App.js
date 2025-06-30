@@ -2,7 +2,9 @@ import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
-  const callMe = () => {};
+  const callMe = () => {
+    return "Hello Tech Guys";
+  };
 
   return (
     <div className="App">

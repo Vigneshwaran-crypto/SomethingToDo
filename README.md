@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# It's a Fresh Project To Learn Git hub
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
