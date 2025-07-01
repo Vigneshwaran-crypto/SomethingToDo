@@ -6,6 +6,10 @@ function App() {
     return "Hello Tech Non";
   };
 
+  const home = () => {
+    // Home things
+  };
+
   // Hello Saranya
 
   return (
