@@ -6,7 +6,7 @@ function App() {
     return "Hello Tech Non";
   };
 
-  // Hello Rocky
+  // Hello Saranya
 
   return (
     <div className="App">
