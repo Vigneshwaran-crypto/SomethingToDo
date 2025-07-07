@@ -6,9 +6,7 @@ function App() {
     return "Hello Tech Non";
   };
 
-  // Hello Rocky
-  // Hello everybudy
-
+  // Im Developer
 
   return (
     <div className="App">
